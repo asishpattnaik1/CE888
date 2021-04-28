@@ -1,0 +1,4 @@
+This code contains the preprocessing, data visualization and training and testing of dataset using LSTM model for below 3 dataset;
+1. Hate Speech Identification
+2. Offensive Language Identification
+3. Emotion Recognition
